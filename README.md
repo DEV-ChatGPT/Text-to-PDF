@@ -26,6 +26,4 @@ A simple, client-side tool to convert plain text into PDF files. Runs entirely i
 - JavaScript
 - [jsPDF](https://github.com/parallax/jsPDF) library
 
-## License
 
-MIT License — feel free to use and modify!
